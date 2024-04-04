@@ -18,6 +18,11 @@ export const Header = () => {
             This is a simple app that allows you to search for countries and
             continents using the API.
           </p>
+          <input
+            type="text"
+            placeholder="Search country By name"
+            className="mt-8 w-96 h-12 pl-4"
+          ></input>
         </div>
       </header>
     </div>
